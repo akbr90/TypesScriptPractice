@@ -3,5 +3,5 @@ function addNumbers(a : number, b: number)
     return a + b;
 }
 
-let sum: number=addNumbers(15,27)
-console.log('Sum of two numbers: ' +sum)
+let  plus=addNumbers(15,27)
+console.log('Sum of two numbers: ' +plus)
